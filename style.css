@@ -32,7 +32,64 @@ img{
 }
 /* for small screen mobiles*/
 
-@media  only screen and (min-width:480px) and (max-width:720px){
+@media  only screen and (min-width:320px) and (max-width:480px){
+.parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.childone{
+  width: 95%;
+  padding: 2%;
+  border: 1px solid #ddd;
+  margin:2%;
+  box-shadow: 3px 3px 3px #ddd;
+  border-radius: 20px;
+
+}
+.childtwo{
+  width: 95%;
+  padding: 2%;
+  border: 1px solid #ddd;
+  margin: 2%;
+  box-shadow: 3px 3px 3px #ddd;
+  border-radius: 20px;
+
+}
+}
+
+
+@media  only screen and (min-width:481px) and (max-width:768px){
+.parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.childone{
+  width: 95%;
+  padding: 2%;
+  border: 1px solid #ddd;
+  margin:2%;
+  box-shadow: 3px 3px 3px #ddd;
+  border-radius: 20px;
+
+}
+.childtwo{
+  width: 95%;
+  padding: 2%;
+  border: 1px solid #ddd;
+  margin: 2%;
+  box-shadow: 3px 3px 3px #ddd;
+  border-radius: 20px;
+
+}
+}
+
+
+
+@media  only screen and (min-width:769px) and (max-width:1024px){
 .parent{
   display: flex;
   flex-direction: column;

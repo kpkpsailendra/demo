@@ -1,0 +1,46 @@
+{
+"profile":{
+    "name":"sailendra",
+    "lable":"full-stack developer",
+    "email":"umasailendramsai@gmail.com"
+  },
+  "career":{
+    "info":"to pursue a challenging career and be a part of progressive organization that gives a scope to enchange my knowledge and utilizing my skills towords the growth of the organization"
+  },
+  "education":[
+  {
+    "degree": "B.TECH",
+    "institute": "pvpsit",
+    "data":["2016-20","95%"]
+
+  },
+  {
+    "degree": "m.p.c",
+    "institute": "sri chaitanya college RB3",
+    "data":["2014-16","93%"]
+
+  },
+  {
+    "degree": "s.s.c",
+    "institute": "krishnaveni school",
+    "data":["2014","90%"]
+
+  }
+],
+"skills":[
+  {
+    "title":"DataBase",
+    "content":["SQL","MongoDB","MySql"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS","javaScript","PHP"]
+
+  },
+  {
+    "title":"Frameworks",
+    "content":["Django","CodeIgntier"]
+
+  }
+]
+}
